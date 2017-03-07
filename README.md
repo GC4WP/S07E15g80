@@ -15,11 +15,15 @@
 4个基本问题：
 
  我到底想要说什么？What am I trying to say?
+ 
  用什么词能表达？What words will express it?
+ 
  用什么画面或短语能让表达更清楚？What image or idiom will make it clearer?
+ 
  这个画面是否足够新鲜，能够达到效果？Is this image fresh enough to have the effect?
  
 2个追加问题：
 
  我能不能写得更简洁？Could I put it more shortly?
+ 
  我写得较丑的文字中，有没有可以避免的？Have I said anything that is avoidably ugly?
