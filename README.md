@@ -27,3 +27,11 @@
  我能不能写得更简洁？Could I put it more shortly?
  
  我写得较丑的文字中，有没有可以避免的？Have I said anything that is avoidably ugly?
+ 
+ 操作步骤：
+ 
+1、各自完成一篇500字作品，提交到GC4WP/S07E15g80中。
+
+2、每位组员对其他四人的作品在code中进行同步修改。
+
+3、
